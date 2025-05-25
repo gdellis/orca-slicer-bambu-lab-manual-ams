@@ -2,4 +2,4 @@
 
 ## Docs
 
-- [Manual AMS Filament Setup](change-filament-no-ams.md)
+- [Manual AMS Filament Setup](./change-filament.gcode.md)
