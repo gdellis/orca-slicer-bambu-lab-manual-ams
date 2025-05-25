@@ -2,4 +2,4 @@
 
 ## Docs
 
-- [Manual AMS Filament Setup](./change-filament.gcode.md)
+- [Manual AMS Orca Slicer Setup](./change-filament.gcode.md)
